@@ -48,15 +48,15 @@
 
         <property name="annotatedClasses">
             <list>
-                <value>com.rays.orsproject0.dto.RoleDTO</value>
-                <value>com.rays.orsproject0.dto.UserDTO</value>
-                <value>com.rays.orsproject0.dto.CollegeDTO</value>
-                <value>com.rays.orsproject0.dto.CourseDTO</value>
-                <value>com.rays.orsproject0.dto.FacultyDTO</value>
-                <value>com.rays.orsproject0.dto.StudentDTO</value>
-                <value>com.rays.orsproject0.dto.SubjectDTO</value>
-                <value>com.rays.orsproject0.dto.TimetableDTO</value>
-                <value>com.rays.orsproject0.dto.MarksheetDTO</value>
+                <value>com.ncs.orsproject0.dto.RoleDTO</value>
+                <value>com.ncs.orsproject0.dto.UserDTO</value>
+                <value>com.ncs.orsproject0.dto.CollegeDTO</value>
+                <value>com.ncs.orsproject0.dto.CourseDTO</value>
+                <value>com.ncs.orsproject0.dto.FacultyDTO</value>
+                <value>com.ncs.orsproject0.dto.StudentDTO</value>
+                <value>com.ncs.orsproject0.dto.SubjectDTO</value>
+                <value>com.ncs.orsproject0.dto.TimetableDTO</value>
+                <value>com.ncs.orsproject0.dto.MarksheetDTO</value>
                
             </list>
         </property>

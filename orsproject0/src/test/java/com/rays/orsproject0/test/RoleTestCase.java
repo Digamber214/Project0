@@ -16,9 +16,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.rays.orsproject0.dao.RoleDAOHibImp;
-import com.rays.orsproject0.dto.RoleDTO;
-import com.rays.orsproject0.service.RoleServiceInt;
+import com.ncs.orsproject0.dao.RoleDAOHibImp;
+import com.ncs.orsproject0.dto.RoleDTO;
+import com.ncs.orsproject0.service.RoleServiceInt;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @Configuration

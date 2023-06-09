@@ -14,9 +14,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.rays.orsproject0.dao.TimetableDAOInt;
-import com.rays.orsproject0.dto.TimetableDTO;
-import com.rays.orsproject0.service.TimetableServiceInt;
+import com.ncs.orsproject0.dao.TimetableDAOInt;
+import com.ncs.orsproject0.dto.TimetableDTO;
+import com.ncs.orsproject0.service.TimetableServiceInt;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @Configuration

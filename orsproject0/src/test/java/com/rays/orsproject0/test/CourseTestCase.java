@@ -14,8 +14,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.rays.orsproject0.dto.CourseDTO;
-import com.rays.orsproject0.service.CourseServiceInt;
+import com.ncs.orsproject0.dto.CourseDTO;
+import com.ncs.orsproject0.service.CourseServiceInt;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @Configuration

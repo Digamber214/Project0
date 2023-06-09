@@ -84,7 +84,7 @@
 		<mvc:interceptor>
 			<mvc:mapping path="/ctl/**/*" />
 			<mvc:mapping path="/resources/doc/**/*" />
-			<bean class="com.rays.orsproject0.ctl.FrontCtl" />
+			<bean class="com.ncs.orsproject0.ctl.FrontCtl" />
 		</mvc:interceptor>
 	</mvc:interceptors> 
 
