@@ -1,4 +1,4 @@
-package com.rays.orsproject0.test;
+package com.ncs.orsproject0.test;
 
 import static org.junit.Assert.fail;
 
